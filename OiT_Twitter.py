@@ -14,24 +14,12 @@ user = api.me()
 # Number of tweets to like
 nrTweets = 5
 
-search_1 = ['@outintech'] # Phrase to search for
+search = ['outintech'] # Phrase to search for
 
 # Searching for phrase amongst tweets
-for tweet in tweepy.Cursor(api.search, search_1).items(nrTweets):
+for tweet in tweepy.Cursor(api.search, search).items(nrTweets):
     try:
-        print('Liked')
-        tweet.favorite()
-        time.sleep(20)
-    except tweepy.TweepError as e:
-        print(e.reason)
-    except StopIteration:
-        break
-
-search_2 = ['#outintech']
-
-for tweet in tweepy.Cursor(api.search, search_2).items(nrTweets):
-    try:
-        print('Hearted')
+        print('Favorited')
         tweet.favorite()
         time.sleep(20)
     except tweepy.TweepError as e:
