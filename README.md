@@ -8,6 +8,9 @@ For more information about Out in Tech: https://outintech.com/
 
 Upon testing out my code, I tried to like tweets with different variations of the phrase "outintech" to find the intersection of efficiency and effectiveness.
 ![](images/tweet_one.png)
+
+I discovered here that searching for the phrase "@outintech" is not effective, it practically does nothing. However, when searching for the phrase "outintech", the tweets involving "@outintech" is liked.
 ![](images/tweet_two.png)
+
 ![](images/tweet_three.png)
 ![](images/tweet_four.png)
