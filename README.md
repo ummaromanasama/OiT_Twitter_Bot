@@ -1,6 +1,6 @@
 # OiT_Twitter_Bot_2020
 
-Overview: In Summer 2020, I had the opportunity to intern with Out in Tech as their Programs and Communications Intern. My primary objective was to brainstorm and execute strategies to grow the Out in Tech community. The OiT_Twitter_Bot_2020 is a Twitter bot that favorites tweets involving the phrase "outintech". Ideally, this would be associated with the Out in Tech Twitter account and deployed onto Heroku. Tweets related to Out in Tech would be supported, a ripple effect across Twitter's platform will be created, and additional exposure would be curated.
+Overview: In Summer 2020, I had the opportunity to intern with Out in Tech as their Programs and Communications Intern. My primary objective was to brainstorm and execute strategies to grow the Out in Tech community. The OiT_Twitter_Bot_2020 is a Twitter bot that favorites and replies tweets involving the phrase "outintech". Ideally, this would be associated with the Out in Tech Twitter account and deployed onto Heroku. Tweets related to Out in Tech would be supported, a ripple effect across Twitter's platform will be created, and additional exposure would be curated.
 
 Follow Out in Tech on Twitter: https://twitter.com/OutInTech
 
@@ -17,3 +17,6 @@ In this scenario, I tried to search for the phrase "out in tech" and as you can 
 
 The same situation evolving around "@outintech" applies to the phrase "#outintech". In conclusion, searching for the phrase "outintech" captures a large scope and is very versatile.
 ![](images/tweet_four.png)
+
+Along with favoriting tweets associated with Out in Tech, the Twitter bot also responds to tweets.
+![](images/tweet_five.png)
