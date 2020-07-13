@@ -7,3 +7,7 @@ Follow Out in tech on Twitter: https://twitter.com/OutInTech
 For more information about Out in Tech: https://outintech.com/
 
 Upon testing out my code, I tried to like tweets with different variations of the phrase "outintech" to find the intersection of efficiency and effectiveness.
+![](images/tweet_one.png)
+![](images/tweet_two.png)
+![](images/tweet_three.png)
+![](images/tweet_four.png)
