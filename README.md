@@ -4,6 +4,7 @@ Overview: In Summer 2020, I had the opportunity to intern with Out in Tech as th
 
 Follow Out in Tech on Twitter: https://twitter.com/OutInTech
 
+Join Out in Tech's Slack community: https://t.co/DmBxx2sAZe?amp=1
 For more information about Out in Tech: https://outintech.com/
 
 Upon testing out my code, I tried to like tweets with different variations of the phrase "outintech" to find the intersection of efficiency and effectiveness.
