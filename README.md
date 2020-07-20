@@ -18,5 +18,5 @@ In this scenario, I tried to search for the phrase "out in tech" and as you can 
 The same situation evolving around "@outintech" applies to the phrase "#outintech". In conclusion, searching for the phrase "outintech" captures a large scope and is very versatile.
 ![](images/tweet_four.png)
 
-Along with favoriting tweets associated with Out in Tech, the Twitter bot also responds to tweets. An issue I came across was when I ran the code in small batches, a thread of replied tweets began to form. This occurs because in the comment itself mentions "out in tech". This can be prevented by avoiding using the search phrase in the tweet. At this time the best workaround is to run a big batch less frequently versus small batches frequently.
+Along with favoriting tweets associated with Out in Tech, the Twitter bot also responds to tweets. An issue I came across was when I ran the code in small batches; a thread of replied tweets began to form. This occurs because in the comment itself mentions "outintech". This can be easily prevented by avoiding using the search phrase in the tweet. At this time the best workaround is to run big batch less frequently versus small batches frequently.
 ![](images/comment_one.png)
