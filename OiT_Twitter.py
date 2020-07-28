@@ -17,7 +17,7 @@ nrTweets = 10
 search = 'outintech' # Phrase to search for
 
 # Comment on tweets
-comment = 'Hey! @OutInTech has a Slack channel with over 13,000 LGBTQ+ professionals worldwide. Thought you might be interested in joining our active & inclusive Slack channel + meet new friends & supporters around the world. bit.ly/Slack-OIT'
+comment = 'Hey! @OutInTech has a Slack channel with over 13,000 LGBTQ+ professionals worldwide. Thought you might be interested in joining our active & inclusive Slack channel + meet new friends & supporters around the world. outintech.com/slack'
 
 # Searching for phrase amongst tweets and commenting on them
 for tweet in tweepy.Cursor(api.search, search).items(nrTweets):
